@@ -1,0 +1,49 @@
+.App {
+   text-align: center;
+   font-family: Arial, sans-serif;
+   background-color: aliceblue;
+   min-height: 100vh;
+   display: flex;
+   flex-direction: column; /* Cambia la dirección del flujo a vertical */
+   justify-content: flex-start;
+   align-items: center; /* Centra horizontalmente */
+ }
+ 
+ .App h1 {
+   color: #007bff;
+   font-size: 48px;
+   margin-top: 0; /* Elimina el margen superior para que esté en la parte superior */
+}
+
+/* Estilos para el componente Login y Register */
+.Login, .Register {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+/* Estilos para los enlaces */
+a {
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 0 10px;
+  text-decoration: none;
+  color:darkslategrey;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+}
+
+a:hover {
+  background-color:#fff;
+  border-color: black;
+}
+
+.error-message {
+  color: red;
+  margin-bottom: 10px;
+}
+
+/* Estilos para los párrafos */
+p {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,8 @@
+**Instrucciones**
+
+En la carpeta del cliente, instalaremos los siguientes packetes en su correspondiente
+orden, para visualizar el calendario con sus funcionalidades:
+
+1: npm install @fullcalendar/react @fullcalendar/daygrid
+2: npm install @fullcalendar/core @fullcalendar/daygrid @fullcalendar/timegrid @fullcalendar/timeline @fullcalendar/resource-daygrid @fullcalendar/resource-timegrid @fullcalendar/resource-timeline --save
+3: npm i @fullcalendar/daygrid @fullcalendar/interaction @fullcalendar/timegrid

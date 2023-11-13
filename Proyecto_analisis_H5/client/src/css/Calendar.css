@@ -1,0 +1,72 @@
+.calendar-container {
+    padding: auto;
+    width: 80%; /* Ajusta el ancho según tus necesidades */
+    max-width: 800px; /* Establece un ancho máximo si lo deseas */
+    margin: 0 auto; /* Centra el calendario horizontalmente */
+    height: 400px; /* Ajusta la altura según tus necesidades */
+  }
+.event-popup {
+    position: fixed;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .event-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: auto;
+  }
+  
+  .event-form label {
+    margin-bottom: 5px;
+  }
+  
+  .event-form input,
+  .event-form select {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .event-form button {
+    background-color: hsl(207, 92%, 44%);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .event-form button:hover {
+    background-color: hsl(207, 92%, 44%);
+  }
+
+  .event-form button {
+    margin-right: 10px; /* Ajusta el valor según lo que prefieras */
+  }
+  
+  .event-form button:last-child {
+    margin-right: 0; /* Elimina el margen derecho del último botón */
+  }
+  body {
+    font-family: 'TuFuente', Arial, sans-serif;
+  }
+  /* Estilos para los botones */
+  .button-container {
+    margin-top: 10px; /* Ajusta según sea necesario */
+  }
+
+  .button-container button {
+    margin-right: 10px; /* Ajusta según sea necesario */
+  }
+
+  .button-container button:last-child {
+    margin-right: 0;
+  }
