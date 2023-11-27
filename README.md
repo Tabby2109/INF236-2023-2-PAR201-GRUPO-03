@@ -17,6 +17,9 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Tabby2
 
 * [Video presentación cliente](https://www.youtube.com)
 * [Video presentación avance 1](https://youtu.be/mGczz_st944?si=gjpl269IzdQoQYwC)
+* [Video presentación avance 4](https://www.youtube.com/watch?v=KNrN7Hrpc2A)
+* [Video presentación avance 5](https://youtu.be/mGczz_st944?si=gjpl269IzdQoQYwC)
+* [Video presentación avance 6 y 7](https://www.youtube.com/watch?v=YPy95fzf69c)
 
 ## Aspectos técnicos relevantes
 
