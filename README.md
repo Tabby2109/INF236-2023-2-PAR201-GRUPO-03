@@ -27,4 +27,8 @@ Hito 6 y 7:
 con una lista de opciones, Ademas de actualizar en tiempo real los cambios al añadir, editar o borrar una hora medica, evitando el tener que cerrar
 e iniciar sesion nuevamente para ver los cambios realizados.
 
+## Codigo final en el branch llamado master
+Acceso al codigo del proyecto final en el siguiente [enlace](https://github.com/Tabby2109/INF236-2023-2-PAR201-GRUPO-03/tree/master)
+
+
 
