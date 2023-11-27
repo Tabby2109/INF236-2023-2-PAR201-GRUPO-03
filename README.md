@@ -22,4 +22,9 @@ Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Tabby2
 
 ## Aspectos técnicos relevantes
 
-_Todo aspecto relevante cuando para poder usar el proyecto o consideraciones del proyecto base a ser entregado_
+Hito 6 y 7:
+- Se corrigieron los errores mencionados en la entrega anterior, otorgando la posibilidad al usuario de seleccionar el tipo de cuenta a registrar dentro de la base de datos
+con una lista de opciones, Ademas de actualizar en tiempo real los cambios al añadir, editar o borrar una hora medica, evitando el tener que cerrar
+e iniciar sesion nuevamente para ver los cambios realizados.
+
+
