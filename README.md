@@ -1,4 +1,4 @@
-# INF225-2024-1-PAR200-GRUPO-14
+# INF225-2024-1-PAR201-GRUPO-14
 Para el proyecto de ingenieria de software, tomaremos como base el proyecto diseñado en analisis y diseño de software del 2023-2
 actualizando el nuevo integrante.
 
