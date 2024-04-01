@@ -1,3 +1,19 @@
+# INF225-2024-1-PAR200-GRUPO-14
+Para el proyecto de ingenieria de software, tomaremos como base el proyecto diseñado en analisis y diseño de software del 2023-2
+actualizando el nuevo integrante.
+
+# Grupo 14
+
+Este es el repositorio del *Grupo 14*, cuyos integrantes son:
+
+* Nicolás Olivos - 202073507-7
+* Diego Morales - 202073511-5
+* Matías Sandoval - 202104684-4
+* **Tutor**: Tabata Ahumada
+
+## Retrospectiva de la base del proyecto
+Acceso a la retrospectiva hecha por el grupo para la base del proyecto [enlace](https://github.com/Tabby2109/INF236-2023-2-PAR201-GRUPO-03/tree/retrospectiva)
+
 # INF236-2023-2-PAR201-GRUPO-03
 
 # Grupo 3
