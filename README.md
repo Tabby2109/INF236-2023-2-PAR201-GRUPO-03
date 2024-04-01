@@ -11,8 +11,9 @@ Este es el repositorio del *Grupo 14*, cuyos integrantes son:
 * Matías Sandoval - 202104684-4
 * **Tutor**: Tabata Ahumada
 
-## Retrospectiva de la base del proyecto
-Acceso a la retrospectiva hecha por el grupo para la base del proyecto [enlace](https://github.com/Tabby2109/INF236-2023-2-PAR201-GRUPO-03/tree/retrospectiva)
+## Retrospectiva del proyecto
+Para la retrospectiva de la base del proyecto se encuentra en el nuevo branch llamado "retrospectiva", de igual manera
+se puede acceder clickeando el siguiente enlace para visualizarlo [enlace](https://github.com/Tabby2109/INF236-2023-2-PAR201-GRUPO-03/tree/retrospectiva)
 
 # INF236-2023-2-PAR201-GRUPO-03
 
