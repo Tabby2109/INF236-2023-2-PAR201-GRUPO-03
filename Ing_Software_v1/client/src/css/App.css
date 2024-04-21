@@ -1,0 +1,17 @@
+.App {
+   text-align: center;
+   font-family: Arial, sans-serif;
+   background-color: aliceblue;
+   min-height: 100vh;
+   display: flex;
+   flex-direction: column; /* Cambia la dirección del flujo a vertical */
+   justify-content: flex-start;
+   align-items: center; /* Centra horizontalmente */
+ }
+ 
+ .App h1 {
+   color: #007bff;
+   font-size: 48px;
+   margin-top: 0; /* Elimina el margen superior para que esté en la parte superior */
+ }
+ 
