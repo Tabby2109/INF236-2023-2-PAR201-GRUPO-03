@@ -7,5 +7,7 @@ de datos. La otra funcionalidad se la llevara el jefe de unidad, que para este c
 opciones de aceptar o rechazar, cabe recalcar que solo ese tipo de cuenta puede visualizar las solicitudes, por lo tanto
 las cuentas de tipo medico no podran ver aquella lista.
 
+Como se realizo la HU numero 6 esto provoco un cambio en la estructura del modelo de dominio, donde tambien se actualizo correspondientemente en la wiki
+
 Se arreglo la observacion del hito anterior sobre estado de las horas "Pendiente" y "Completado", donde ambas 
 mostraran los resultados, cuando realmente solo las horas con el estado "Completado" deben de mostrar aquellos resultados.
