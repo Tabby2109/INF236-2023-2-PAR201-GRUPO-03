@@ -1,1 +1,1 @@
-
+En esta nueva version se hicieron las respectivas evaluaciones de la arquitectura del Software, donde se podra ver todo lo mencionado y a grandes rasgos en el siguiente [Video](https://www.youtube.com/watch?v=WgjAXlrMKqw)
