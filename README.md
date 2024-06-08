@@ -16,7 +16,7 @@ Para la retrospectiva de la base del proyecto se encuentra en el nuevo branch ll
 se puede acceder clickeando el siguiente enlace para visualizarlo [enlace](https://github.com/Tabby2109/INF236-2023-2-PAR201-GRUPO-03/tree/retrospectiva)
 
 ## Evaluacion de la arquitectura del software
-Para lo que corresponde a la evaluacion del hito 4, el codigo del proyecto y la explicacion se encuentra en el siguiente enlace para visualizarlo [enlace](Ing_Software_v3)
+Para lo que corresponde a la evaluacion del hito 4, el codigo del proyecto y la explicacion se encuentra en el siguiente [enlace](Ing_Software_v3) para visualizarlo
 
 El video explicativo se puede observar en el siguiente enlace: [Video explicativo hito 4]()
 
