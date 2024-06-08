@@ -16,9 +16,10 @@ Para la retrospectiva de la base del proyecto se encuentra en el nuevo branch ll
 se puede acceder clickeando el siguiente enlace para visualizarlo [enlace](https://github.com/Tabby2109/INF236-2023-2-PAR201-GRUPO-03/tree/retrospectiva)
 
 ## Evaluacion de la arquitectura del software
-Para lo que corresponde a la evaluacion del hito 4, el codigo del proyecto y la explicacion se encuentra en el siguiente [enlace](Ing_Software_v3) para visualizarlo
+Para lo que corresponde a la evaluacion del hito 4, el codigo del proyecto y la explicacion en formato pdf se encuentra en el siguiente [enlace](Ing_Software_v3) para visualizarlo
 
-El video explicativo se puede observar en el siguiente enlace: [Video explicativo hito 4]()
+## Videos de ingeniería de software
+El video explicativo correspondiente al hito 4 se puede observar en el siguiente enlace: [Video explicativo hito 4](https://www.youtube.com/watch?v=WgjAXlrMKqw)
 
 # INF236-2023-2-PAR201-GRUPO-03
 
@@ -35,7 +36,7 @@ Este es el repositorio del *Grupo 3*, cuyos integrantes son:
 
 Puede acceder a la Wiki mediante el siguiente [enlace](https://github.com/Tabby2109/INF236-2023-2-PAR201-GRUPO-03/wiki)
 
-## Videos
+## Videos de Analisis y diseño de software
 
 * [Video presentación cliente](https://www.youtube.com)
 * [Video presentación avance 1](https://youtu.be/mGczz_st944?si=gjpl269IzdQoQYwC)
