@@ -1,0 +1,128 @@
+
+.calendar-container {
+    padding: auto;
+    width: 800px; /* Ajusta el ancho según tus necesidades */
+    margin: 0 auto; /* Centra el calendario horizontalmente */
+    height: 400px; /* Ajusta la altura según tus necesidades */
+  }
+
+.exam-list {
+    list-style: none;
+    padding: 0;
+}
+
+.event-popup {
+    position: fixed;
+    top: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .event-form {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    margin: auto;
+  }
+  
+  .event-form label {
+    margin-bottom: 5px;
+  }
+  
+  .event-form input,
+  .event-form select {
+    margin-bottom: 10px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .event-form button {
+    background-color: hsl(207, 92%, 44%);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .event-form button:hover {
+    background-color: hsl(207, 92%, 44%);
+  }
+
+  .event-form button {
+    margin-right: 10px; /* Ajusta el valor según lo que prefieras */
+  }
+  
+  .event-form button:last-child {
+    margin-right: 0; /* Elimina el margen derecho del último botón */
+  }
+  body {
+    font-family: 'TuFuente', Arial, sans-serif;
+  }
+  /* Estilos para los botones */
+  .button-container {
+    margin-top: 10px; 
+  }
+
+  .button-container button {
+    margin-right: 10px; 
+  }
+
+  .button-container button:last-child {
+    margin-right: 0;
+  }
+
+  .event-modal {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    height: 100%;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    z-index: 1000;
+    transition: transform 0.3s ease-in-out;
+    transform: translateX(100%);
+  }
+  
+  .event-modal.show {
+    transform: translateX(0); /* Muestra el formulario al desplazarlo hacia la pantalla */
+  }
+
+  .event-details-container {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translateY(-50%);
+    width: 300px;
+    background: white;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center; 
+  }
+
+  .event-details button {
+    margin-top: 10px; /* Espacio entre los botones */
+    margin-bottom: 10px;
+    width: 80px;
+  }
+
+  .button-container {
+    display: flex;
+    justify-content: 50%;
+    width: 100%;
+    align-items: center;
+  }
+  

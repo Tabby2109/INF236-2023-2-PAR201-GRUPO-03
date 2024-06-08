@@ -1,0 +1,55 @@
+/* Estilos para la estructura del componente */
+.ex-pac-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+/* Estilos para el contenido del componente */
+.content-container {
+  display: flex;
+}
+
+/* Estilos para la columna izquierda (lista de exámenes) */
+.left-column {
+  width: 50%; /* Ajusta el ancho de la columna izquierda según sea necesario */
+}
+
+/* Estilos para la columna derecha (funcionalidad futura) */
+.right-column {
+  width: 50%; /* Ajusta el ancho de la columna derecha según sea necesario */
+  /* Aquí puedes agregar estilos adicionales para la columna derecha */
+}
+
+/* Estilos generales */
+.exam-list {
+  list-style: none;
+  padding: 0;
+}
+
+.exam-item {
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.exam-item:hover {
+  background-color: #f0f0f0;
+}
+
+/* Estilos para el detalle del examen */
+.exam-detail {
+  display: none;
+  margin-top: 10px;
+}
+
+.exam-item.show .exam-detail {
+  display: block;
+}
+
+/* Estilos para las imágenes */
+.exam-detail img {
+  max-width: 300px;
+  max-height: 300px;
+}

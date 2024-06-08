@@ -1,0 +1,22 @@
+**Instrucciones**
+
+En la siguiente carpeta se encontrarán 2 archivos .py distintos para realizar 
+pruebas con el software, estos archivos tienen los isguientes nombres:
+
+test_insercionV1.py: Archivo .py que testea como se comporta el software al insertar horas.
+
+test_registrosV1.py: Archivo .py que testea como se comporta el software al realizar varios tipos de registro de usuario
+
+Para utilizar los archivos .py y testear el software se debe:
+
+1. Inicializar servidor del software desde la terminal de python, para ello se debe estar en la carpeta "server" y
+   colocar: npm run dev
+
+2. Inicializar el cliente del software desde la terminal de python, para ello se debe estar en la carpeta "client" y
+   colocar: npm start
+
+3. Abrir una nueva consola y dirijirse a la carpeta "tests", posteriormente colocar "python {nombre_archivo.py}",
+   tal que {nombre_archivo.py} debe ser reemplazado por el nombre del archivo que se desea probar.
+
+Pd: Como guia, se cuentan PDF para los distintos py con los disintos output e inputs que debe de 
+    arrojar el software al momento de utilizarlo o realizar las pruebas.

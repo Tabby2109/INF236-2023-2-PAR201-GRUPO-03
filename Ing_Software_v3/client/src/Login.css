@@ -1,0 +1,45 @@
+body {
+   font-family: 'Arial', sans-serif;
+   background-color: #f4f4f4;
+ }
+ 
+ .login-container {
+   max-width: 400px;
+   margin: 50px auto;
+   padding: 20px;
+   background-color: rgba(255, 255, 255, 0.9); /* Haciendo el fondo más transparente */
+   border-radius: 5px;
+   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ }
+ 
+ h2 {
+   text-align: center;
+   color: #333;
+ }
+ 
+ label {
+   display: block;
+   margin: 10px 0 5px;
+   color: #555;
+ }
+ 
+ input {
+   width: 100%;
+   padding: 8px;
+   margin-bottom: 10px;
+   box-sizing: border-box;
+ }
+ 
+ button {
+   width: 100%;
+   padding: 10px;
+   background-color: rgba(47, 119, 226, 0.9); /* Haciendo el fondo del botón más transparente */
+   color: #fff;
+   border: none;
+   border-radius: 3px;
+   cursor: pointer;
+ }
+ 
+ button:hover {
+   background-color: rgba(2, 70, 172, 0.9); /* Cambiando el color de fondo al pasar el ratón */
+ }

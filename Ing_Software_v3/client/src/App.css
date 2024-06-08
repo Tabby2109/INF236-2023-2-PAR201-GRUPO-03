@@ -1,0 +1,79 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.error-message {
+  color: #d9534f;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 4px;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+  cursor: pointer;
+  border: none;
+  border-radius: 3px;
+}
+
+p {
+  margin: 10px 0;
+}
+
+.pregunta {
+  text-align: center;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: rgba(255, 255, 255, 0.8); /* Fondo semi-transparente para resaltar el contenido */
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cerrarSesion {
+  max-width: 200px;
+  margin: 1px auto;
+  padding: 10px;
+  background-color: rgba(255, 255, 255, 0.8); /* Fondo semi-transparente para resaltar el contenido */
+}
+
+select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  background-color: #fff; /* Color de fondo del select */
+  color: #555; /* Color del texto del select */
+  font-size: 16px; /* Tamaño de fuente del select */
+  cursor: pointer;
+}
+
+.calendar-container {
+  padding: auto;
+  width: 800px; /* Ajusta el ancho según tus necesidades */
+  margin: 0 auto; /* Centra el calendario horizontalmente */
+  height: 400px; /* Ajusta la altura según tus necesidades */
+}
+
