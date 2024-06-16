@@ -1,0 +1,28 @@
+.container {
+    width: 600px;
+    margin: auto;
+  }
+  
+  .rut-container {
+    display: flex;
+    align-items: center;
+  }
+  
+  .rut-part {
+    width: 100px;
+    margin-right: 5px;
+    text-align: center;
+  }
+
+  .rut-part2 {
+    width: 50px;
+    margin-right: 5px;
+    text-align: center;
+  }
+  
+  .rut-container span {
+    margin-right: 5px;
+    position: relative;
+    top: -4px; /* Ajusta este valor según sea necesario */
+  }
+  
